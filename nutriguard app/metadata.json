@@ -1,0 +1,6 @@
+{
+  "name": "NutriGuard & Health Alliance",
+  "description": "An all-in-one platform featuring healthy grocery toxicity auditing, AI vision package scanner, certified medical consultations, AI nutritionist chatbot, and unsafe product reporting.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
